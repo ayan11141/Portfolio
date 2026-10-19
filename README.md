@@ -1,6 +1,6 @@
 # 資格試験スケジュール・進捗管理アプリ
 
-[リポジトリURL](https://github.com/ayan11141/Portfolio)
+(https://github.com/ayan11141/Portfolio)
 
 ## 概要
 日々の忙しさで勉強ペースが分からなくなり、試験日から逆算したスケジュール管理に焦ってしまう悩みを解決するためのアプリです。
