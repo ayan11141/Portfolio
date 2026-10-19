@@ -1,5 +1,6 @@
 # 資格試験スケジュール・進捗管理アプリ
-https://github.com/ayan11141/Portfolio
+
+[リポジトリURL](https://github.com/ayan11141/Portfolio)
 
 ## 概要
 日々の忙しさで勉強ペースが分からなくなり、試験日から逆算したスケジュール管理に焦ってしまう悩みを解決するためのアプリです。
@@ -11,13 +12,16 @@ https://github.com/ayan11141/Portfolio
 - **言語**: JavaScript / TypeScript, HTML, CSS
 
 ## 設計ドキュメント
+- [要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1tbVLJUGC10qk153rosC2VPLfzc03KVuVpmChb3KjTwA/edit?gid=0#gid=0))
+- 詳細設計時のワイヤーフレーム、ER図の画像は docsディレクトリに格納しています [（こちらからアクセス）](https://github.com/ayan11141/Portfolio/tree/main/docs)
+
 - **ワイヤーフレーム**:
--![ワイヤーフレーム](docs/詳細設計_ワイヤーフレーム(手書き).jpeg)
+  - ![ワイヤーフレーム](docs/詳細設計_ワイヤーフレーム(手書き).jpeg)
 - **ER図**:
--  ![ER図](docs/詳細設計_ER図.drawio.png)
+  - ![ER図](docs/詳細設計_ER図.drawio.png)
 
 ## 機能一覧
-- ユーザー登録・ログイン機能
+- ユーザー登録、ログイン機能（メールアドレスとGoogleアカウント）
 - 試験日までのカウントダウン機能
 - タスクの追加・編集・削除・完了ステータス管理（CRUD操作）
 - 進捗率の視覚的な可視化（グラフ・ボード形式）
