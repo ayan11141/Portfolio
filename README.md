@@ -15,11 +15,6 @@
 - [要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1tbVLJUGC10qk153rosC2VPLfzc03KVuVpmChb3KjTwA/edit?gid=0#gid=0))
 - 詳細設計時のワイヤーフレーム、ER図の画像は docsディレクトリに格納しています [（こちらからアクセス）](https://github.com/ayan11141/Portfolio/tree/main/docs)
 
-- **ワイヤーフレーム**:
-  - ![ワイヤーフレーム](docs/詳細設計_ワイヤーフレーム(手書き).jpeg)
-- **ER図**:
-  - ![ER図](docs/詳細設計_ER図.drawio.png)
-
 ## 機能一覧
 - ユーザー登録、ログイン機能（メールアドレスとGoogleアカウント）
 - 試験日までのカウントダウン機能
