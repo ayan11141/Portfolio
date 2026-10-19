@@ -11,7 +11,8 @@
 
 ## 設計ドキュメント
 - **ワイヤーフレーム**: `docs/wireframe.png`
-- **ER図**: docs/詳細設計_ER図.drawio.png
+- **ER図**:
+-  ![ER図](docs/詳細設計_ER図.drawio.png)
 
 ## 機能一覧
 - ユーザー登録・ログイン機能
