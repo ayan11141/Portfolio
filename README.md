@@ -10,7 +10,8 @@
 - **言語**: JavaScript / TypeScript, HTML, CSS
 
 ## 設計ドキュメント
-- **ワイヤーフレーム**: `docs/wireframe.png`
+- **ワイヤーフレーム**:
+-![ワイヤーフレーム](docs/詳細設計_ワイヤーフレーム(手書き).jpeg)
 - **ER図**:
 -  ![ER図](docs/詳細設計_ER図.drawio.png)
 
