@@ -3,7 +3,6 @@
 https://portfolio-app-lac-five.vercel.app/
 
 ## アプリのスクリーンショット
-![アプリの画面](## アプリのスクリーンショット
 ![アプリの画面](docs/screenshot.png))
 
 
