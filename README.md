@@ -3,7 +3,7 @@
 https://portfolio-app-lac-five.vercel.app/
 
 ## アプリのスクリーンショット
-![アプリの画面](docs/screenshot.png)
+![アプリの画面](docs/スクリーンショット 2026-10-29 153031.png)
 
 
 ## 概要
