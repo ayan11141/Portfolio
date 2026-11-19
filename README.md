@@ -19,7 +19,11 @@ https://portfolio-app-lac-five.vercel.app/
 - バックエンド / データベース：Supabase（タスクのCRUD操作、進捗率の計算・動的更新）
 - 言語：JavaScript / TypeScript, HTML, CSS
 - デプロイ：Vercel
-- バージョン管理：Git, GitHub
+- バージョン管理・CI/CD：Git, GitHub, GitHub Actions
+- 開発・検証ツール：Chrome DevTools
+
+## CI/CD（GitHub Actions 実行結果）
+- [GitHub Actions ワークフロー実行結果一覧](https://github.com/ayan11141/Portfolio/actions)
 
 ## 機能一覧
 - ユーザー登録、ログイン機能（メールアドレスとGoogleアカウント）
