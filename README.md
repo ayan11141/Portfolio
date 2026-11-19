@@ -33,10 +33,11 @@ https://portfolio-app-lac-five.vercel.app/
 - 詳細設計時のワイヤーフレーム、ER図の画像は `docs` ディレクトリに格納しています。[（こちらからアクセス）](https://github.com/ayan11141/Portfolio/tree/main/docs)
 
 ## テスト・修正の設計及び実施書
-- [要追記：テスト・修正の設計及び実施書_Googleスプレッドシートのリンク][cite: 1]
+- [要追記：テスト・修正の設計及び実施書_Googleスプレッドシートのリンク](https://docs.google.com/spreadsheets/d/1ph7XaLu4a2k_kDBEpj_ySTBPETJvg5143ZMk5G90DUA/edit?gid=799863560#gid=799863560)
 
 ## アプリの改善案
 - [要追記：今後の改善案や追加したい機能があれば記載][cite: 1]
 
 ## 備考
-- [要追記：使用した生成AIとその用途、コーディング・リファクタリングのルールなどがあれば記載][cite: 1]
+- 使用した生成AIとその用途
+  - Gemini：要件整理、設計、実装の相談・コード確認など
