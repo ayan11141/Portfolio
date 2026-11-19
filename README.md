@@ -36,7 +36,7 @@ https://portfolio-app-lac-five.vercel.app/
 - [テスト・修正の設計及び実施書_Googleスプレッドシートのリンク](https://docs.google.com/spreadsheets/d/1fNP9EAcBZd8Uay1aD2AZXxC8Un-Viu0euVDMR2aKeRc/edit?gid=0#gid=0)
 
 ## アプリの改善案
-- https://docs.google.com/spreadsheets/d/1XTiVYkjL5Rs6NGm5wIGWsZg6lOGOX5vY7BoSk5zNcxw/edit?gid=482600378#gid=482600378
+- [アプリの改善案_Googleスプレッドシート] (https://docs.google.com/spreadsheets/d/1XTiVYkjL5Rs6NGm5wIGWsZg6lOGOX5vY7BoSk5zNcxw/edit?gid=482600378#gid=482600378)
 
 ## 備考
 - 使用した生成AIとその用途
