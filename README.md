@@ -40,6 +40,6 @@ https://portfolio-app-lac-five.vercel.app/
 - [アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1XTiVYkjL5Rs6NGm5wIGWsZg6lOGOX5vY7BoSk5zNcxw/edit?gid=482600378#gid=482600378)
 
 ## 備考
-ChatGPT：要件定義、設計、各種リサーチ
-v0：アプリのモック作成
-GitHub Copilot Chat：ローカル環境でのコードの修正相談
+- ChatGPT：要件定義、設計、各種リサーチ
+- v0：アプリのモック作成
+- GitHub Copilot Chat：ローカル環境でのコードの修正相談
